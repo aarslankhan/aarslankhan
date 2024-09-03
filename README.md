@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarslankhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarslankhan" /> </p>
 
-- 🌱 I’m currently learning **Postgresql, Graphql.**
+- 🌱 I’m currently learning **Artificial Intelligence.**
 
-- 💬 Ask me about **node, express and MongoDB**
+- 💬 Ask me about **Web Development , AI , Digital Transformation**
 
 - 📫 How to reach me **aarslanrashidofficial@gmail.com**
 
