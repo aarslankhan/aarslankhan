@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development , AI , Digital Transformation**
 
-- 📫 How to reach me **aarslanrashidofficial@gmail.com**
+- 📫 How to reach me **arslan@clickflow.tech**
 
 - ⚡ Fun fact **I really like to dig up problems that are initially thought to be not so problematic.**
 
